@@ -1,0 +1,16 @@
+{ 
+	// Expensive Chests
+	"expensiveChests": false,
+	// Cooking food in a furnace makes suspect meat
+	"suspectMeat": true,
+	// Armor is crafted with plates
+	"plateArmor": true,
+	// Removes smoker recipe
+	"noSmoker": true,
+	// Removes smoker recipe
+	"noRepair": true,
+	// Eat times
+	"eatTimes": true,
+	// Animal sadness
+	"sadAnimals": true
+}
