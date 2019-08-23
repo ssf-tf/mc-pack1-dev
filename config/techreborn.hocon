@@ -336,33 +336,33 @@ scrapboxinator {
 }
 solarPanelAdvanced {
     # Generation rate during day for Advanced Solar Panel (Value in FE)
-    advancedDayRate=2
+    advancedDayRate=0
     # Generation rate during night for Advanced Solar Panel (Value in FE)
-    advancedNightRate=0
+    advancedNightRate=2
 }
 solarPanelBasic {
     # Generation rate during day for Basic Solar Panel (Value in FE)
-    basicDayRate=1
+    basicDayRate=0
     # Generation rate during night for Basic Solar Panel (Value in FE)
-    basicNightRate=0
+    basicNightRate=1
 }
 solarPanelIndustrial {
     # Generation rate during day for Industrial Solar Panel (Value in FE)
-    industrialDayRate=8
+    industrialDayRate=0
     # Generation rate during night for Industrial Solar Panel (Value in FE)
-    industrialNightRate=0
+    industrialNightRate=8
 }
 solarPanelQuantum {
     # Generation rate during day for Quantum Solar Panel (Value in FE)
-    quantumDayRate=64
+    quantumDayRate=0
     # Generation rate during night for Quantum Solar Panel (Value in FE)
-    quantumNightRate=0
+    quantumNightRate=64
 }
 solarPanelUltimate {
     # Generation rate during day for Ultimate Solar Panel (Value in FE)
-    ultimateDayRate=16
+    ultimateDayRate=0
     # Generation rate during night for Ultimate Solar Panel (Value in FE)
-    ultimateNightRate=0
+    ultimateNightRate=16
 }
 "solid_canning_machine" {
     # Solid Canning Machine Max Energy (Value in EU)
