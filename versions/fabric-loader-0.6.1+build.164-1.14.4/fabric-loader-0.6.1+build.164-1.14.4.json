@@ -1,8 +1,8 @@
 {
-  "id": "fabric-loader-0.4.8+build.159-1.14.4",
+  "id": "fabric-loader-0.6.1+build.164-1.14.4",
   "inheritsFrom": "1.14.4",
-  "releaseTime": "2019-08-09T14:15:37+0200",
-  "time": "2019-08-09T14:15:37+0200",
+  "releaseTime": "2019-08-30T05:13:28+0200",
+  "time": "2019-08-30T05:13:28+0200",
   "type": "release",
   "mainClass": "net.fabricmc.loader.launch.knot.KnotClient",
   "arguments": {
@@ -18,7 +18,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:tiny-remapper:0.1.0.33",
+      "name": "net.fabricmc:tiny-remapper:0.1.0.40",
       "url": "https://maven.fabricmc.net/"
     },
     {
@@ -58,7 +58,7 @@
       "url": "https://maven.fabricmc.net/"
     },
     {
-      "name": "net.fabricmc:fabric-loader:0.4.8+build.159",
+      "name": "net.fabricmc:fabric-loader:0.6.1+build.164",
       "url": "https://maven.fabricmc.net/"
     }
   ]
