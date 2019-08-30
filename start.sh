@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-java -jar fabric-server-launch.jar
+java -Xmx3500M -Xmx3500M -jar fabric-server-launch.jar
